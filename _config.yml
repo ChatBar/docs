@@ -6,14 +6,14 @@ tagline:             '专为办公室白领打造的AI助理'
 description:         
 url:                 
 baseurl:             ''
-paginate:            5
+paginate:            
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              ChatBar
+  url:               
+  email:             
 
 # Gems
 plugins:
