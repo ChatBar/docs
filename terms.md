@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: 用户协议
 ---
-*最后更新日期：2023年6月8日*
-
+<p class="message">
+  最后更新日期：2023年6月8日
+</p>
 欢迎使用ChatBar.AI！在您开始使用ChatBar.AI之前，请仔细阅读并理解本《用户协议》（以下简称“协议”）。您一旦使用ChatBar.AI的服务，即表示您已接受本协议的全部内容。
 
 ## 一、许可范围：

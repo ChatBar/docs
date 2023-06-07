@@ -1,1 +1,24 @@
 markdown: kramdown
+
+# Setup
+title:               <img src="/logo.svg" width="92" height="32" alt="" class="logo-image" />
+tagline:             '专为办公室白领打造的AI助理'
+description:         
+url:                 
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             0.1.0
+google_analytics_id: #UA-XXXX-Y
