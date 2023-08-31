@@ -11,19 +11,13 @@ title: 常见问题
 ## ChatBar 会一直有免费版吗？
 
 - **是的**。在力所能及的情况下，我们希望能一直提供免费版，以满足普通用户的日常使用需求。
-- 使用量比较大的用户，我们也会考虑推出VIP会员，届时您可以订购VIP，来支持我们的产品。
+- 使用量比较大的用户，您可以订购VIP，来支持我们的产品。
 
-## ChatBar 会出手机 App 吗？
+## ChatBar 能在手机上用吗？
 
-- 暂无计划。我们目前**专注电脑办公场景**，努力把“极简、高效”做到极致，赢得用户口碑。
+- 可以。手机浏览器，可直接访问网页版[ Web.ChatBar.AI](https://web.chatbar.ai/)来使用。
 - 如需App，推荐使用：[ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069)（官方）、[OpenCat](https://apps.apple.com/app/opencat/id6445999201)、[Sider](https://apps.apple.com/us/app/sider-ai-sidekick/id6446394143)
 
 ## 有问题或建议，反馈给谁？
 
 - 欢迎多多反馈！Email：[support@chatbar.ai](mailto:support@chatbar.ai)
-
-## 想推荐 ChatBar 给朋友，怎么推荐？
-
-- 欢迎多多推荐！以下是推荐语，供参考：
- > ChatBar 这款软件很不错。电脑上任何地方，都能直接调用ChatGPT来问答、翻译、总结等，很实用！
- > 下载地址：[https://ChatBar.AI](https://ChatBar.AI)，免费上手，开箱即用
